@@ -177,13 +177,3 @@ sudo apt remove vsftpd -y
 
 ---
 
-## ✅ 9. Conclusiones
-
-El servicio **vsftpd** es uno de los servidores FTP más seguros y ligeros disponibles en Linux.  
-Su correcta configuración permite compartir archivos entre equipos dentro de una red local o externa de manera eficiente y segura.
-
----
-
-✍️ **Autor:** *Walter Jaldin Gonzales*  
-📅 **Fecha:** *10 de octubre de 2025*  
-📄 **Archivo:** `18_ftp.md`
